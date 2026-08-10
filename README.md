@@ -97,7 +97,7 @@ Turning raw tables into decisions. B.Tech IT student at Jaypee University of Inf
 </tr>
 </table>
 
-*(Once each project is uploaded as its own repo, swap the portfolio anchor links above for the direct repo URLs.)*
+
 
 ### 📊 GitHub Stats
 
