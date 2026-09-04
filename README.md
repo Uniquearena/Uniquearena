@@ -129,8 +129,7 @@ Turning raw tables into decisions. B.Tech IT student at Jaypee University of Inf
 </td>
 <td width="50%">
 
-**GenAI Chatbot** — *coming soon*
-<br/>Have a repo for this already? Send me the link and I'll add it here.
+
 
 </td>
 </tr>
